@@ -1,0 +1,7 @@
+Split,Source,N,Pos Rate,Avg Words (Child),Ctx Coverage,Avg Words (Ctx),Avg Words (Composed),Trunc Rate
+Train (plain),internal,122580,0.8464,110.33,,,110.33,0.0675
+Train (context),internal,122580,0.8464,110.33,0.0,0.0,113.33,0.0685
+Validation (plain),internal,30645,0.8464,112.37,,,112.37,0.0688
+Validation (context),internal,30645,0.8464,112.37,0.0,0.0,115.37,0.0701
+External (plain),external,30645,0.8464,36.67,,,36.67,0.0048
+External (context),external,30645,0.8464,36.67,0.9848,72.7,112.37,0.0688

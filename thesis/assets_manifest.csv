@@ -1,0 +1,2 @@
+experiment,asset_type,rel_path,short_name,section,caption,label,rows,cols,sha256,timestamp
+exp4_context,csv,experiments/exp4_context/fairness_parity_tpr.csv,exp4_tpr_parity,Results – Experiment 4 (Context) → Fairness,Per-identity recall parity (context − plain).,tab:exp4_tpr_parity,9,4,bee7d4359da6,2025-10-29 17:40:57
